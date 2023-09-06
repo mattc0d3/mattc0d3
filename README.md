@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Developer
 ----------------
 
-I'm an aspiring developer who currently undertook a bootcamp with Northcoders after learning to code solo over the past year. Right now I'm focused on building out my portfolio and improving my skills as I look for my first Junior role. Please feel free to get in contact!
+I'm an aspiring developer and recent graduate of Northcoders' software development bootcamp, having also learnt to code solo over the past year. Right now I'm focused on building out my portfolio and improving my skills as I look for my first junior role. Please feel free to get in contact!
 
 *   🌍  I'm based in Brighton and Hove
 *   ✉️  You can contact me at [matthew.j.sheehan@outlook.com](mailto:matthew.j.sheehan@outlook.com)
